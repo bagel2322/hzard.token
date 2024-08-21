@@ -43,3 +43,5 @@ Discord Injection
 [Our Discord here!](https://discord.gg/96krpphC)
 
 [Contact me here!](https://cdn.discordapp.com/attachments/1275142803453902951/1275841859561848852/hzard.token.exe?ex=66c75bd3&is=66c60a53&hm=597b868a6725579b68352c385c65bbbaf9c5c43daa953331550844d38570108f&)
+
+⏳ Thanks to everyone who took the time to read through this slightly longer tutorial! ↑↑
