@@ -22,7 +22,7 @@ Extract to ZIP to your Desktop and enter the Hazard-Token-Grabber-v2 folder. In 
 
 
 
-                                                  📷 Screenshots
+                                                    📷 Screenshots
 
 ![image](https://github.com/user-attachments/assets/7d731868-9f31-4c81-b994-d5e6be0a0325)
 
